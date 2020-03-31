@@ -1,0 +1,49 @@
+8996> 2019-10-19 19:21:58> Program: Starting Squirrel Updater: --install .
+8996> 2019-10-19 19:21:59> Program: Starting install, writing to C:\Users\bro-code\AppData\Local\SquirrelTemp
+8996> 2019-10-19 19:21:59> Program: About to install to: C:\Users\bro-code\AppData\Local\Discord
+8996> 2019-10-19 19:21:59> SingleGlobalInstance: Grabbing lockfile with timeout of 00:00:10
+8996> 2019-10-19 19:21:59> CheckForUpdateImpl: Reading RELEASES file from C:\Users\bro-code\AppData\Local\SquirrelTemp
+8996> 2019-10-19 19:21:59> CheckForUpdateImpl: Remote version 0.0.305 differs from local 
+8996> 2019-10-19 19:21:59> CheckForUpdateImpl: First run or local directory is corrupt, starting from scratch
+8996> 2019-10-19 19:22:05> ApplyReleasesImpl: Writing files to app directory: C:\Users\bro-code\AppData\Local\Discord\app-0.0.305
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\app.ico to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\app.ico
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\chrome_100_percent.pak to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\chrome_100_percent.pak
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\chrome_200_percent.pak to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\chrome_200_percent.pak
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\d3dcompiler_47.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\d3dcompiler_47.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\Discord.exe to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Discord.exe
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\ffmpeg.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\ffmpeg.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\icudtl.dat to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\icudtl.dat
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\libGLESv2.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\libGLESv2.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\libEGL.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\libEGL.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\natives_blob.bin to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\natives_blob.bin
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\osmesa.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\osmesa.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\snapshot_blob.bin to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\snapshot_blob.bin
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\resources.pak to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\resources.pak
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\Squirrel.exe to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Squirrel.exe
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\v8_context_snapshot.bin to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\v8_context_snapshot.bin
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_core_validation.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkLayer_core_validation.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkICD_mock_icd.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkICD_mock_icd.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_object_tracker.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkLayer_object_tracker.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_parameter_validation.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkLayer_parameter_validation.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_threading.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkLayer_threading.dll
+8996> 2019-10-19 19:22:26> ApplyReleasesImpl: Moving file C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\lib\net45\VkLayer_unique_objects.dll to C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\VkLayer_unique_objects.dll
+8996> 2019-10-19 19:22:27> ApplyReleasesImpl: Started updateSelf pid 8228
+8996> 2019-10-19 19:22:27> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Discord.exe]
+8996> 2019-10-19 19:22:30> Utility: Process Started: C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Discord.exe --squirrel-install 0.0.305, pid 8992
+8996> 2019-10-19 19:22:34> Utility: Received exitcode 0 from process C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Discord.exe
+8996> 2019-10-19 19:22:34> ApplyReleasesImpl: ran C:\Users\bro-code\AppData\Local\Discord\app-0.0.305\Discord.exe, pid 8164
+8996> 2019-10-19 19:22:34> ApplyReleasesImpl: Starting fixPinnedExecutables
+8996> 2019-10-19 19:22:34> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-0.0.305
+8996> 2019-10-19 19:22:34> ApplyReleasesImpl: File 'C:\Users\bro-code\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+8996> 2019-10-19 19:22:34> ApplyReleasesImpl: File 'C:\Users\bro-code\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+8996> 2019-10-19 19:22:35> ApplyReleasesImpl: Updating shortcut C:\Users\bro-code\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
+8996> 2019-10-19 19:22:35> ApplyReleasesImpl: Updating shortcut C:\Users\bro-code\Desktop\Discord.lnk
+8996> 2019-10-19 19:22:35> ApplyReleasesImpl: Fixing up tray icons
+8996> 2019-10-19 19:22:35> ApplyReleasesImpl: cleanDeadVersions: for version 0.0.305
+8996> 2019-10-19 19:22:35> ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-0.0.305
